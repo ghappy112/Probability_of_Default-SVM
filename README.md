@@ -3,7 +3,7 @@ Made a probability of default calculator for peer-to-peer lending by training a 
 The independent variables used were credit scores and debt-to-income ratios. When tested on 1.3 million loans, it was 80% accurate.
 
 The goal of the project was to make a calculator that estimates the probability of default for a peer-to-peer loan.
-The independent variables used in the estimation are the borrower's credit core, and the borrower's debt-to-income ratio.
+The independent variables used in the estimation are the borrower's credit score, and the borrower's debt-to-income ratio.
 A support vector machine (SVM) model was trained on over 1300 peer-to-peer loans.
 After it was trained, it was then tested on over 1.3 million loans. It was 80% accurate when tested.
 

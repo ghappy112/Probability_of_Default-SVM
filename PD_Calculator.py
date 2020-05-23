@@ -12,7 +12,7 @@ from sklearn import metrics
 import pickle
 
 # LOAD MODEL
-pickle_in = open(r"C:\Users\Greg Happ\Desktop\Python Data Science\PD Project\pd_svm_model.pickle", "rb")
+pickle_in = open(r"pd_svm_model.pickle", "rb")
 #print(pickle_in)
 PD_SVM = pickle.load(pickle_in)
 #print()

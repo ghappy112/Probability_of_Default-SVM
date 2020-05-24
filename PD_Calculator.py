@@ -4,8 +4,6 @@ print()
 #Probability of Default (PD) calculator!!!
 import numpy as np
 import pandas as pd
-from scipy import stats
-import statsmodels.api as sm
 import sklearn
 from sklearn import svm
 from sklearn import metrics
